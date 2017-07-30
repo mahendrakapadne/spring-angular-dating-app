@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - changeSet:
+    - id: "00000000000001"
+      author: "kapadne"
